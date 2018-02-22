@@ -1,3 +1,7 @@
+## Changes
+>`vv` and `ivv` for work with `Vivaldi`.
+> `Firechrome-vv.alfredworkflow` is modified version.
+
 alfred-firechrome
 =================
 
