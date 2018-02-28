@@ -1,7 +1,7 @@
 ## Changes
-> `oc` for open current browser tab(without cheking) in chrome.
-> `vv` and `ivv` for work with `Vivaldi`.
-> `Firechrome-customized.alfredworkflow` is modified version.
+> `oc` for open current browser tab(without cheking) in chrome.  
+> `vv` and `ivv` for work with `Vivaldi`.  
+> `Firechrome-customized.alfredworkflow` is modified version.  
 
 alfred-firechrome
 =================
